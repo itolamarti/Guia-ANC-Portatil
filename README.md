@@ -1,4 +1,3 @@
-Guia detallada con código, lista de Hardware, pasos para montaje/Prueba. Bajo licencia CC BY-NC-SA. Asi que construye, modifica, comparte.. pero si comercializas, acuerdate de mi.
 # Guía ANC Portátil - Silenciar sin Apagar
 
 Proyecto abierto de cancelación activa de ruido para portátiles ruidosos.  
