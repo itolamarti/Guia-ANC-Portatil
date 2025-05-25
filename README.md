@@ -5,7 +5,8 @@
 ## Descripción Corta
 Este proyecto implementa un sistema de Control Activo de Ruido (ANC) portátil utilizando un microcontrolador ESP32. El objetivo es reducir el ruido no deseado en un entorno específico mediante la generación de una señal de "anti-ruido". El sistema utiliza el algoritmo FxLMS (Filtered-X Least Mean Squares) para una adaptación y cancelación efectivas, e incluye calibración en el dispositivo de la ruta secundaria acústica y una interfaz serie para el ajuste de parámetros en tiempo real.
 
-*(Puedes añadir aquí una o dos frases sobre el objetivo inicial, como la reducción de ruido del ventilador de un portátil, y su potencial de adaptación a otros entornos.)*
+pensado inicialmente para crear un periférico que cancelaría el ruido de los portátiles gaming, pero al final tiene muchas más aplicaciones..
+silenciar frigoríficos aires acondicionados, hoteles expuestos al tráfico,  Resumiendo, el silencio no tiene precio!
 
 ## Características Principales
 * **Algoritmo Avanzado:** Implementación del algoritmo FxLMS para compensar la latencia acústica.
